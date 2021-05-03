@@ -6,8 +6,6 @@ dependencies:
     - scipy
     - numpy
     - scikit-learn
-    - matplotlibion code
-6-digit code
- We just sen
+    - matplotlib
     - pandas
     - thinc
