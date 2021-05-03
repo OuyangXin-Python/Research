@@ -9,7 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - re
     - pprint
     - gensim
     - pyldavis
