@@ -1,0 +1,13 @@
+dependencies:
+  - python=3
+  - pip:
+    - spacy
+    - ipykernel
+    - scipy
+    - numpy
+    - scikit-learn
+    - matplotlibion code
+6-digit code
+ We just sen
+    - pandas
+    - thinc
