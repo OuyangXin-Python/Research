@@ -1,15 +1,9 @@
 dependencies:
   - python=3
   - pip:
-    - spacy
-    - ipykernel
-    - scipy
     - numpy
-    - scikit-learn
-    - matplotlib
     - pandas
-    - thinc
-    - gensim
-    - pyldavis
+    - matplotlib
+    - google_trans_new
     - nltk
-    - jieba
+
